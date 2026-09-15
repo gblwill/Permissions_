@@ -1,0 +1,393 @@
+{
+ 
+  "0": {
+    "Name": "Singularity Assoc.",
+    "Health": 75000,
+    "MaxAbilities": 10,
+    "Itens": [
+      { "Nome": "Pisao"},
+      { "Nome": "Ice Paradise" },
+      { "Nome": "Flashstep" },
+      { "Nome": "Supernova" },
+      { "Nome": "Thunder Judgment" },
+      { "Nome": "The Real Esfere" },
+      { "Nome": "FP_Colateral" },
+      { "Nome": "Void Gate" },
+      { "Nome": "Overdrive" },
+      { "Nome": "DemonBash" },
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
+    ]
+},
+
+ "596497104": {
+    "Name": "TyranT Assoc.",
+    "Health": 100000,
+    "MaxAbilities": 1000,
+    "Itens": [
+      { "Nome": "TyT_Colateral" },
+      { "Nome": "Mountain Cutter" },
+      { "Nome": "Overdrive" },
+      { "Nome": "Scream" },
+      { "Nome": "I Am Atomic" },
+      { "Nome": "TyranT_Farda", "Ignore": "true" },
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
+    ],
+    "Colors": {
+       "Nome": { "Texto": [0, 0, 0], "Borda": [194, 53, 255] },
+       "Patente": { "Texto": [194, 53, 255], "Borda": [0, 0, 0] },
+       "Team": { "Texto": [194, 53, 255], "Borda": [0, 0, 0] }
+    }
+  },
+
+  "195358434": { 
+   "Name": "Kabaneri Nobari",
+   "Health": 100000,
+   "Itens":[
+    { "Nome": "Flashstep"}
+   ]
+  },
+
+  "34390641": {
+    "Name": "Hueco Mundo",
+    "Health": 35000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo Skeleton" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Hadou" },
+      { "Nome": "Lanza del Relámpago" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
+      { "Nome": "Raio" }
+    ]
+  },
+
+  "392771630": {
+    "Name": "Syntax",
+    "Health": 3000,
+    "Itens": [
+      { "Nome": "CorteCircular" },
+      { "Nome": "Impulso Sombrio" },
+      { "Nome": "Susanoo Skeleton" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255,255,0] }
+    }
+  },
+
+    "34356664": {
+    "Name": "Grécia antiga",
+    "Health": 5000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [100, 0, 0], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [100, 0, 0], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [100, 0, 0], "Borda": [0, 0, 0] }
+    }
+  },
+ 
+  "33656216": {
+    "Name": "Blake Association",
+    "Health": 5000,
+    "Itens": [
+      { "Nome": "SlayerMark" },
+      { "Nome": "CorteCircular" },
+      { "Nome": "Flashstep" },
+      { "Nome": "CorteDoSol" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Supernova" },
+      { "Nome": "Rasteira" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 65 } },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [232, 99, 255] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [232, 99, 255] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [232, 99, 255] }
+    }
+  },
+
+  "32325896": {
+    "Name": "Tokyo Manji Gang",
+    "Health": 10000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
+    }
+  },
+  
+  "944451740": {
+    "Name": "Clã Uchiha",
+    "MaxAbilities": 10,
+    "Health": 10000,
+    "Itens": [
+      { "Nome": "Pisao" },
+      { "Nome": "Thunder Judgment" },
+      { "Nome": "P_Colateral" },
+      { "Nome": "Void Gate" },
+      { "Nome": "CorteDoSol" },
+      { "Nome": "Kimimaru" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
+      { "Nome": "Flashstep" },
+      { "Nome": "Fire" },
+      { "Nome": "Crimson Step" },
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
+    ]
+  },
+
+ "35716048": {
+    "Name": "Yamaguchi Gumi",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [5, 5, 163], "Borda": [73, 128, 158] },
+      "Patente": { "Texto": [5, 5, 163], "Borda": [73, 128, 158] },
+      "Team": { "Texto": [5, 5, 163], "Borda": [73, 128, 158] }
+    }
+  },
+
+ "34894857": {
+    "Name": "Los periquitas",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "Bang" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Flashstep" },
+      { "Nome": "Susanoo Skeleton" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 102, 102], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 102, 102], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+    }
+  },
+
+ "8046391": {
+    "Name": "༒︎ 3 Divindades ༒︎",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 0, 0] },
+      "Patente": { "Texto": [245, 233, 0], "Borda": [255, 0, 0] },
+      "Team": { "Texto": [245, 233, 0], "Borda": [0, 0, 0] }
+    }
+  },
+
+ "1009172145": {
+    "Name": "Goten",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [4, 0, 122] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [4, 0, 122] }
+    }
+  },
+
+ "87125772": {
+    "Name": "Overlord's",
+    "Health": 3000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 255, 195], "Borda": [255, 228, 196] },
+      "Patente": { "Texto": [28, 20, 0], "Borda": [201, 255, 181] },
+      "Team": { "Texto": [255, 0, 98], "Borda": [106, 0, 255] }
+    }
+  },
+
+ "33870696": {
+    "Name": "testebloxfruit77",
+    "Health": 3000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+    }
+  },
+
+ "33524892": {
+    "Name": "Luas Superiores",
+    "Health": 3000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [107, 37, 1] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [107, 37, 1] }
+    }
+  },
+
+  "32419373": {
+    "Name": "龍 ✦ Super Novas ✦ 龍",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [255, 20, 235] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [255, 20, 235] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [255, 20, 235] }
+    }
+  },
+
+ "908586004": {
+    "Name": "Arcanjo's",
+    "Health": 500,
+    "MaxAbilities": 8,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "CorteDoSol" },
+      { "Nome": "CorteCircular" },
+      { "Nome": "SlayerMark" },
+      { "Nome": "Colateral" },
+      { "Nome": "Water Dragon" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Void Gate" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Raio" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Bang" }
+    ]
+  },
+ 
+  "755862819": {
+    "Name": "Viltrum Empire",
+    "Health": 15000,
+    "MaxAbilities": 8,
+    "Itens": [
+      { "Nome": "Flashstep" },
+      { "Nome": "CorteCircular" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Colateral" }
+    ]
+  },
+
+  "33994083": {
+    "Name": "The Sith Imperium",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Raio" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
+    }
+  },
+
+  "35147149": {
+    "Name": "Gotei 13",
+    "Health": 3000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+    }
+  },
+
+  "35283892": {
+    "Name": "World Governnament",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Raio" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Foice de Gelo" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] }
+    }
+  }
+}
