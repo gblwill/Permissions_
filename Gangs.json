@@ -82,6 +82,19 @@
     }
   },
 
+    "5059843": {
+    "Name": "Cuzinho Assoc.",
+    "Health": 500,
+    "Itens": [
+      { "Nome": "Kokusen" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 0, 0], "Borda": [128, 0, 32] },
+      "Patente": { "Texto": [255, 0, 0], "Borda": [128, 0, 32] },
+      "Team": { "Texto": [255, 0, 0], "Borda": [128, 0, 32] }
+    }
+  },
+
     "34356664": {
     "Name": "Grécia antiga",
     "Health": 5000,
