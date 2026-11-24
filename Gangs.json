@@ -150,8 +150,8 @@
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
     }
   },
-  
-  "944451740": {
+
+   "8901966": {
     "Name": "Clã Uchiha",
     "MaxAbilities": 10,
     "Health": 10000,
@@ -168,6 +168,20 @@
       { "Nome": "Fire" },
       { "Nome": "Crimson Step" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
+    ]
+  },
+
+    "34251939": {
+    "Name": "CalmaCalabreso Assoc.",
+    "Health": 10000,
+    "Itens": [
+      { "Nome": "Pisao" },
+      { "Nome": "Colateral" },
+      { "Nome": "Supernova" },
+      { "Nome": "Flashstep" },
+      { "Nome": "DemonBash" },
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } },
+      { "Nome": "Lanza del Relámpago" }
     ]
   },
 
